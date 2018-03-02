@@ -3,7 +3,6 @@ let backDate = 30 //Period: 30 90 180 360
 const totalDate = myPort.length;
 //console.log(totalDate);
 let TotalReturn=[];
-let TRIBefore = 100;
 var TotalReturnIndex = 100;
 
 //function calculate Total Return
